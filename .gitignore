@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Restricted or derived clinical data
+*.csv
+*.xlsx
+*.xls
+*.tsv
+
+# Generated reports and temporary files
+*.log
+*.tmp
+~$*
+

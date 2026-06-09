@@ -1,0 +1,2104 @@
+{
+  "metadata": {
+    "title": "FRIDs Library",
+    "source": "Converted from FRIDs Library.xlsx",
+    "reference": "WHO Collaborating Centre for Drug Statistics Methodology ATC/DDD Index",
+    "reference_url": "https://atcddd.fhi.no/atc_ddd_index/",
+    "format_note": "Medication names are grouped by FRIDs medication class. Use medication_names for simple regex matching, or categories for class-level extraction."
+  },
+  "categories": {
+    "benzodiazepines": {
+      "label": "Benzodiazepines N05B",
+      "medications": [
+        {
+          "atc_code": "N05BA01",
+          "name": "diazepam"
+        },
+        {
+          "atc_code": "N05BA02",
+          "name": "chlordiazepoxide"
+        },
+        {
+          "atc_code": "N05BA03",
+          "name": "medazepam"
+        },
+        {
+          "atc_code": "N05BA04",
+          "name": "oxazepam"
+        },
+        {
+          "atc_code": "N05BA05",
+          "name": "potassium clorazepate"
+        },
+        {
+          "atc_code": "N05BA06",
+          "name": "lorazepam"
+        },
+        {
+          "atc_code": "N05BA07",
+          "name": "adinazolam"
+        },
+        {
+          "atc_code": "N05BA08",
+          "name": "bromazepam"
+        },
+        {
+          "atc_code": "N05BA09",
+          "name": "clobazam"
+        },
+        {
+          "atc_code": "N05BA10",
+          "name": "ketazolam"
+        },
+        {
+          "atc_code": "N05BA11",
+          "name": "prazepam"
+        },
+        {
+          "atc_code": "N05BA12",
+          "name": "alprazolam"
+        },
+        {
+          "atc_code": "N05BA13",
+          "name": "halazepam"
+        },
+        {
+          "atc_code": "N05BA14",
+          "name": "pinazepam"
+        },
+        {
+          "atc_code": "N05BA15",
+          "name": "camazepam"
+        },
+        {
+          "atc_code": "N05BA16",
+          "name": "nordazepam"
+        },
+        {
+          "atc_code": "N05BA17",
+          "name": "fludiazepam"
+        },
+        {
+          "atc_code": "N05BA18",
+          "name": "ethyl loflazepate"
+        },
+        {
+          "atc_code": "N05BA19",
+          "name": "etizolam"
+        },
+        {
+          "atc_code": "N05BA21",
+          "name": "clotiazepam"
+        },
+        {
+          "atc_code": "N05BA22",
+          "name": "cloxazolam"
+        },
+        {
+          "atc_code": "N05BA23",
+          "name": "tofisopam"
+        },
+        {
+          "atc_code": "N05BA24",
+          "name": "bentazepam"
+        },
+        {
+          "atc_code": "N05BA25",
+          "name": "mexazolam"
+        }
+      ]
+    },
+    "antidepressants": {
+      "label": "Antidepressants N06A",
+      "medications": [
+        {
+          "atc_code": "N06AA01",
+          "name": "desipramine"
+        },
+        {
+          "atc_code": "N06AA02",
+          "name": "imipramine"
+        },
+        {
+          "atc_code": "N06AA03",
+          "name": "imipramine oxide"
+        },
+        {
+          "atc_code": "N06AA04",
+          "name": "clomipramine"
+        },
+        {
+          "atc_code": "N06AA05",
+          "name": "opipramol"
+        },
+        {
+          "atc_code": "N06AA06",
+          "name": "trimipramine"
+        },
+        {
+          "atc_code": "N06AA07",
+          "name": "lofepramine"
+        },
+        {
+          "atc_code": "N06AA08",
+          "name": "dibenzepin"
+        },
+        {
+          "atc_code": "N06AA09",
+          "name": "amitriptyline"
+        },
+        {
+          "atc_code": "N06AA10",
+          "name": "nortriptyline"
+        },
+        {
+          "atc_code": "N06AA11",
+          "name": "protriptyline"
+        },
+        {
+          "atc_code": "N06AA12",
+          "name": "doxepin"
+        },
+        {
+          "atc_code": "N06AA13",
+          "name": "iprindole"
+        },
+        {
+          "atc_code": "N06AA14",
+          "name": "melitracen"
+        },
+        {
+          "atc_code": "N06AA15",
+          "name": "butriptyline"
+        },
+        {
+          "atc_code": "N06AA16",
+          "name": "dosulepin"
+        },
+        {
+          "atc_code": "N06AA17",
+          "name": "amoxapine"
+        },
+        {
+          "atc_code": "N06AA18",
+          "name": "dimetacrine"
+        },
+        {
+          "atc_code": "N06AA19",
+          "name": "amineptine"
+        },
+        {
+          "atc_code": "N06AA21",
+          "name": "maprotiline"
+        },
+        {
+          "atc_code": "N06AA23",
+          "name": "quinupramine"
+        },
+        {
+          "atc_code": "N06AB02",
+          "name": "zimeldine"
+        },
+        {
+          "atc_code": "N06AB03",
+          "name": "fluoxetine"
+        },
+        {
+          "atc_code": "N06AB04",
+          "name": "citalopram"
+        },
+        {
+          "atc_code": "N06AB05",
+          "name": "paroxetine"
+        },
+        {
+          "atc_code": "N06AB06",
+          "name": "sertraline"
+        },
+        {
+          "atc_code": "N06AB07",
+          "name": "alaproclate"
+        },
+        {
+          "atc_code": "N06AB08",
+          "name": "fluvoxamine"
+        },
+        {
+          "atc_code": "N06AB09",
+          "name": "etoperidone"
+        },
+        {
+          "atc_code": "N06AB10",
+          "name": "escitalopram"
+        },
+        {
+          "atc_code": "N06AF01",
+          "name": "isocarboxazid"
+        },
+        {
+          "atc_code": "N06AF02",
+          "name": "nialamide"
+        },
+        {
+          "atc_code": "N06AF03",
+          "name": "phenelzine"
+        },
+        {
+          "atc_code": "N06AF04",
+          "name": "tranylcypromine"
+        },
+        {
+          "atc_code": "N06AF05",
+          "name": "iproniazide"
+        },
+        {
+          "atc_code": "N06AF06",
+          "name": "iproclozide"
+        },
+        {
+          "atc_code": "N06AG02",
+          "name": "moclobemide"
+        },
+        {
+          "atc_code": "N06AG03",
+          "name": "toloxatone"
+        },
+        {
+          "atc_code": "N06AX01",
+          "name": "oxitriptan"
+        },
+        {
+          "atc_code": "N06AX02",
+          "name": "tryptophan"
+        },
+        {
+          "atc_code": "N06AX03",
+          "name": "mianserin"
+        },
+        {
+          "atc_code": "N06AX04",
+          "name": "nomifensine"
+        },
+        {
+          "atc_code": "N06AX05",
+          "name": "trazodone"
+        },
+        {
+          "atc_code": "N06AX06",
+          "name": "nefazodone"
+        },
+        {
+          "atc_code": "N06AX07",
+          "name": "minaprine"
+        },
+        {
+          "atc_code": "N06AX08",
+          "name": "bifemelane"
+        },
+        {
+          "atc_code": "N06AX09",
+          "name": "viloxazine"
+        },
+        {
+          "atc_code": "N06AX10",
+          "name": "oxaflozane"
+        },
+        {
+          "atc_code": "N06AX11",
+          "name": "mirtazapine"
+        },
+        {
+          "atc_code": "N06AX12",
+          "name": "bupropion"
+        },
+        {
+          "atc_code": "N06AX13",
+          "name": "medifoxamine"
+        },
+        {
+          "atc_code": "N06AX14",
+          "name": "tianeptine"
+        },
+        {
+          "atc_code": "N06AX15",
+          "name": "pivagabine"
+        },
+        {
+          "atc_code": "N06AX16",
+          "name": "venlafaxine"
+        },
+        {
+          "atc_code": "N06AX17",
+          "name": "milnacipran"
+        },
+        {
+          "atc_code": "N06AX18",
+          "name": "reboxetine"
+        },
+        {
+          "atc_code": "N06AX19",
+          "name": "gepirone"
+        },
+        {
+          "atc_code": "N06AX21",
+          "name": "duloxetine"
+        },
+        {
+          "atc_code": "N06AX22",
+          "name": "agomelatine"
+        },
+        {
+          "atc_code": "N06AX23",
+          "name": "desvenlafaxine"
+        },
+        {
+          "atc_code": "N06AX24",
+          "name": "vilazodone"
+        },
+        {
+          "atc_code": "N06AX25",
+          "name": "Hyperici herba"
+        },
+        {
+          "atc_code": "N06AX26",
+          "name": "vortioxetine"
+        },
+        {
+          "atc_code": "N06AX27",
+          "name": "esketamine"
+        },
+        {
+          "atc_code": "N06AX28",
+          "name": "levomilnacipran"
+        },
+        {
+          "atc_code": "N06AX29",
+          "name": "brexanolone"
+        },
+        {
+          "atc_code": "N06AX31",
+          "name": "zuranolone"
+        },
+        {
+          "atc_code": "N06AX62",
+          "name": "bupropion and dextromethorphan"
+        }
+      ]
+    },
+    "antipsychotics": {
+      "label": "Antipsychotics N05A",
+      "medications": [
+        {
+          "atc_code": "N05AA01",
+          "name": "chlorpromazine"
+        },
+        {
+          "atc_code": "N05AA02",
+          "name": "levomepromazine"
+        },
+        {
+          "atc_code": "N05AA03",
+          "name": "promazine"
+        },
+        {
+          "atc_code": "N05AA04",
+          "name": "acepromazine"
+        },
+        {
+          "atc_code": "N05AA05",
+          "name": "triflupromazine"
+        },
+        {
+          "atc_code": "N05AA06",
+          "name": "cyamemazine"
+        },
+        {
+          "atc_code": "N05AA07",
+          "name": "chlorproethazine"
+        },
+        {
+          "atc_code": "N05AB01",
+          "name": "dixyrazine"
+        },
+        {
+          "atc_code": "N05AB02",
+          "name": "fluphenazine"
+        },
+        {
+          "atc_code": "N05AB03",
+          "name": "perphenazine"
+        },
+        {
+          "atc_code": "N05AB04",
+          "name": "prochlorperazine"
+        },
+        {
+          "atc_code": "N05AB05",
+          "name": "thiopropazate"
+        },
+        {
+          "atc_code": "N05AB06",
+          "name": "trifluoperazine"
+        },
+        {
+          "atc_code": "N05AB07",
+          "name": "acetophenazine"
+        },
+        {
+          "atc_code": "N05AB08",
+          "name": "thioproperazine"
+        },
+        {
+          "atc_code": "N05AB09",
+          "name": "butaperazine"
+        },
+        {
+          "atc_code": "N05AB10",
+          "name": "perazine"
+        },
+        {
+          "atc_code": "N05AC01",
+          "name": "periciazine"
+        },
+        {
+          "atc_code": "N05AC02",
+          "name": "thioridazine"
+        },
+        {
+          "atc_code": "N05AC03",
+          "name": "mesoridazine"
+        },
+        {
+          "atc_code": "N05AC04",
+          "name": "pipotiazine"
+        },
+        {
+          "atc_code": "N05AD01",
+          "name": "haloperidol"
+        },
+        {
+          "atc_code": "N05AD02",
+          "name": "trifluperidol"
+        },
+        {
+          "atc_code": "N05AD03",
+          "name": "melperone"
+        },
+        {
+          "atc_code": "N05AD04",
+          "name": "moperone"
+        },
+        {
+          "atc_code": "N05AD05",
+          "name": "pipamperone"
+        },
+        {
+          "atc_code": "N05AD06",
+          "name": "bromperidol"
+        },
+        {
+          "atc_code": "N05AD07",
+          "name": "benperidol"
+        },
+        {
+          "atc_code": "N05AD08",
+          "name": "droperidol"
+        },
+        {
+          "atc_code": "N05AD09",
+          "name": "fluanisone"
+        },
+        {
+          "atc_code": "N05AD10",
+          "name": "lumateperone"
+        },
+        {
+          "atc_code": "N05AE01",
+          "name": "oxypertine"
+        },
+        {
+          "atc_code": "N05AE02",
+          "name": "molindone"
+        },
+        {
+          "atc_code": "N05AE03",
+          "name": "sertindole"
+        },
+        {
+          "atc_code": "N05AE04",
+          "name": "ziprasidone"
+        },
+        {
+          "atc_code": "N05AE05",
+          "name": "lurasidone"
+        },
+        {
+          "atc_code": "N05AF01",
+          "name": "flupentixol"
+        },
+        {
+          "atc_code": "N05AF02",
+          "name": "clopenthixol"
+        },
+        {
+          "atc_code": "N05AF03",
+          "name": "chlorprothixene"
+        },
+        {
+          "atc_code": "N05AF04",
+          "name": "tiotixene"
+        },
+        {
+          "atc_code": "N05AF05",
+          "name": "zuclopenthixol"
+        },
+        {
+          "atc_code": "N05AG01",
+          "name": "fluspirilene"
+        },
+        {
+          "atc_code": "N05AG02",
+          "name": "pimozide"
+        },
+        {
+          "atc_code": "N05AG03",
+          "name": "penfluridol"
+        },
+        {
+          "atc_code": "N05AH01",
+          "name": "loxapine"
+        },
+        {
+          "atc_code": "N05AH02",
+          "name": "clozapine"
+        },
+        {
+          "atc_code": "N05AH03",
+          "name": "olanzapine"
+        },
+        {
+          "atc_code": "N05AH04",
+          "name": "quetiapine"
+        },
+        {
+          "atc_code": "N05AH05",
+          "name": "asenapine"
+        },
+        {
+          "atc_code": "N05AH06",
+          "name": "clotiapine"
+        },
+        {
+          "atc_code": "N05AH53",
+          "name": "olanzapine and samidorphan"
+        },
+        {
+          "atc_code": "N05AL01",
+          "name": "sulpiride"
+        },
+        {
+          "atc_code": "N05AL02",
+          "name": "sultopride"
+        },
+        {
+          "atc_code": "N05AL03",
+          "name": "tiapride"
+        },
+        {
+          "atc_code": "N05AL04",
+          "name": "remoxipride"
+        },
+        {
+          "atc_code": "N05AL05",
+          "name": "amisulpride"
+        },
+        {
+          "atc_code": "N05AL06",
+          "name": "veralipride"
+        },
+        {
+          "atc_code": "N05AL07",
+          "name": "levosulpiride"
+        },
+        {
+          "atc_code": "N05AN01",
+          "name": "lithium"
+        },
+        {
+          "atc_code": "N05AX07",
+          "name": "prothipendyl"
+        },
+        {
+          "atc_code": "N05AX08",
+          "name": "risperidone"
+        },
+        {
+          "atc_code": "N05AX10",
+          "name": "mosapramine"
+        },
+        {
+          "atc_code": "N05AX11",
+          "name": "zotepine"
+        },
+        {
+          "atc_code": "N05AX12",
+          "name": "aripiprazole"
+        },
+        {
+          "atc_code": "N05AX13",
+          "name": "paliperidone"
+        },
+        {
+          "atc_code": "N05AX14",
+          "name": "iloperidone"
+        },
+        {
+          "atc_code": "N05AX15",
+          "name": "cariprazine"
+        },
+        {
+          "atc_code": "N05AX16",
+          "name": "brexpiprazole"
+        },
+        {
+          "atc_code": "N05AX17",
+          "name": "pimavanserin"
+        },
+        {
+          "atc_code": "N05AX50",
+          "name": "xanomeline and trospium"
+        }
+      ]
+    },
+    "opioids": {
+      "label": "Opioids N02A",
+      "medications": [
+        {
+          "atc_code": "N02AA01",
+          "name": "morphine"
+        },
+        {
+          "atc_code": "N02AA02",
+          "name": "opium"
+        },
+        {
+          "atc_code": "N02AA03",
+          "name": "hydromorphone"
+        },
+        {
+          "atc_code": "N02AA04",
+          "name": "nicomorphine"
+        },
+        {
+          "atc_code": "N02AA05",
+          "name": "oxycodone"
+        },
+        {
+          "atc_code": "N02AA08",
+          "name": "dihydrocodeine"
+        },
+        {
+          "atc_code": "N02AA10",
+          "name": "papaveretum"
+        },
+        {
+          "atc_code": "N02AA11",
+          "name": "oxymorphone"
+        },
+        {
+          "atc_code": "N02AA51",
+          "name": "morphine, combinations"
+        },
+        {
+          "atc_code": "N02AA53",
+          "name": "hydromorphone and naloxone"
+        },
+        {
+          "atc_code": "N02AA55",
+          "name": "oxycodone and naloxone"
+        },
+        {
+          "atc_code": "N02AA56",
+          "name": "oxycodone and naltrexone"
+        },
+        {
+          "atc_code": "N02AA58",
+          "name": "dihydrocodeine, combinations"
+        },
+        {
+          "atc_code": "N02AA59",
+          "name": "codeine, combinations excl. psycholeptics"
+        },
+        {
+          "atc_code": "N02AA79",
+          "name": "codeine, combinations with psycholeptics"
+        },
+        {
+          "atc_code": "N02AB01",
+          "name": "ketobemidone"
+        },
+        {
+          "atc_code": "N02AB02",
+          "name": "pethidine"
+        },
+        {
+          "atc_code": "N02AB03",
+          "name": "fentanyl"
+        },
+        {
+          "atc_code": "N02AB52",
+          "name": "pethidine, combinations excl. psycholeptics"
+        },
+        {
+          "atc_code": "N02AB72",
+          "name": "pethidine, combinations with psycholeptics"
+        },
+        {
+          "atc_code": "N02AC01",
+          "name": "dextromoramide"
+        },
+        {
+          "atc_code": "N02AC03",
+          "name": "piritramide"
+        },
+        {
+          "atc_code": "N02AC04",
+          "name": "dextropropoxyphene"
+        },
+        {
+          "atc_code": "N02AC05",
+          "name": "bezitramide"
+        },
+        {
+          "atc_code": "N02AC52",
+          "name": "methadone, combinations excl. psycholeptics"
+        },
+        {
+          "atc_code": "N02AC54",
+          "name": "dextropropoxyphene, combinations excl. psycholeptics"
+        },
+        {
+          "atc_code": "N02AC74",
+          "name": "dextropropoxyphene, combinations with psycholeptics"
+        },
+        {
+          "atc_code": "N02AD01",
+          "name": "pentazocine"
+        },
+        {
+          "atc_code": "N02AD02",
+          "name": "phenazocine"
+        },
+        {
+          "atc_code": "N02AD51",
+          "name": "pentazocine and naloxone"
+        },
+        {
+          "atc_code": "N02AE01",
+          "name": "buprenorphine"
+        },
+        {
+          "atc_code": "N02AF01",
+          "name": "butorphanol"
+        },
+        {
+          "atc_code": "N02AF02",
+          "name": "nalbuphine"
+        },
+        {
+          "atc_code": "N02AX01",
+          "name": "tilidine"
+        },
+        {
+          "atc_code": "N02AX02",
+          "name": "tramadol"
+        },
+        {
+          "atc_code": "N02AX03",
+          "name": "dezocine"
+        },
+        {
+          "atc_code": "N02AX05",
+          "name": "meptazinol"
+        },
+        {
+          "atc_code": "N02AX06",
+          "name": "tapentadol"
+        },
+        {
+          "atc_code": "N02AX07",
+          "name": "oliceridine"
+        },
+        {
+          "atc_code": "N02AX51",
+          "name": "tilidine and naloxone"
+        }
+      ]
+    },
+    "antiepileptics": {
+      "label": "Antiepileptics N03A",
+      "medications": [
+        {
+          "atc_code": "N03AA01",
+          "name": "methylphenobarbital"
+        },
+        {
+          "atc_code": "N03AA02",
+          "name": "phenobarbital"
+        },
+        {
+          "atc_code": "N03AA03",
+          "name": "primidone"
+        },
+        {
+          "atc_code": "N03AA04",
+          "name": "barbexaclone"
+        },
+        {
+          "atc_code": "N03AA30",
+          "name": "metharbital"
+        },
+        {
+          "atc_code": "N03AB01",
+          "name": "ethotoin"
+        },
+        {
+          "atc_code": "N03AB02",
+          "name": "phenytoin"
+        },
+        {
+          "atc_code": "N03AB03",
+          "name": "amino(diphenylhydantoin) valeric acid"
+        },
+        {
+          "atc_code": "N03AB04",
+          "name": "mephenytoin"
+        },
+        {
+          "atc_code": "N03AB05",
+          "name": "fosphenytoin"
+        },
+        {
+          "atc_code": "N03AB52",
+          "name": "phenytoin, combinations"
+        },
+        {
+          "atc_code": "N03AB54",
+          "name": "mephenytoin, combinations"
+        },
+        {
+          "atc_code": "N03AC01",
+          "name": "paramethadione"
+        },
+        {
+          "atc_code": "N03AC02",
+          "name": "trimethadione"
+        },
+        {
+          "atc_code": "N03AC03",
+          "name": "ethadione"
+        },
+        {
+          "atc_code": "N03AD01",
+          "name": "ethosuximide"
+        },
+        {
+          "atc_code": "N03AD02",
+          "name": "phensuximide"
+        },
+        {
+          "atc_code": "N03AD03",
+          "name": "mesuximide"
+        },
+        {
+          "atc_code": "N03AD51",
+          "name": "ethosuximide, combinations"
+        },
+        {
+          "atc_code": "N03AE01",
+          "name": "clonazepam"
+        },
+        {
+          "atc_code": "N03AF01",
+          "name": "carbamazepine"
+        },
+        {
+          "atc_code": "N03AF02",
+          "name": "oxcarbazepine"
+        },
+        {
+          "atc_code": "N03AF03",
+          "name": "rufinamide"
+        },
+        {
+          "atc_code": "N03AF04",
+          "name": "eslicarbazepine"
+        },
+        {
+          "atc_code": "N03AG01",
+          "name": "valproic acid"
+        },
+        {
+          "atc_code": "N03AG02",
+          "name": "valpromide"
+        },
+        {
+          "atc_code": "N03AG03",
+          "name": "aminobutyric acid"
+        },
+        {
+          "atc_code": "N03AG04",
+          "name": "vigabatrin"
+        },
+        {
+          "atc_code": "N03AG05",
+          "name": "progabide"
+        },
+        {
+          "atc_code": "N03AG06",
+          "name": "tiagabine"
+        },
+        {
+          "atc_code": "N03AX03",
+          "name": "sultiame"
+        },
+        {
+          "atc_code": "N03AX07",
+          "name": "phenacemide"
+        },
+        {
+          "atc_code": "N03AX09",
+          "name": "lamotrigine"
+        },
+        {
+          "atc_code": "N03AX10",
+          "name": "felbamate"
+        },
+        {
+          "atc_code": "N03AX11",
+          "name": "topiramate"
+        },
+        {
+          "atc_code": "N03AX13",
+          "name": "pheneturide"
+        },
+        {
+          "atc_code": "N03AX14",
+          "name": "levetiracetam"
+        },
+        {
+          "atc_code": "N03AX15",
+          "name": "zonisamide"
+        },
+        {
+          "atc_code": "N03AX17",
+          "name": "stiripentol"
+        },
+        {
+          "atc_code": "N03AX18",
+          "name": "lacosamide"
+        },
+        {
+          "atc_code": "N03AX19",
+          "name": "carisbamate"
+        },
+        {
+          "atc_code": "N03AX21",
+          "name": "retigabine"
+        },
+        {
+          "atc_code": "N03AX22",
+          "name": "perampanel"
+        },
+        {
+          "atc_code": "N03AX23",
+          "name": "brivaracetam"
+        },
+        {
+          "atc_code": "N03AX24",
+          "name": "cannabidiol"
+        },
+        {
+          "atc_code": "N03AX25",
+          "name": "cenobamate"
+        },
+        {
+          "atc_code": "N03AX26",
+          "name": "fenfluramine"
+        },
+        {
+          "atc_code": "N03AX27",
+          "name": "ganaxolone"
+        },
+        {
+          "atc_code": "N03AX30",
+          "name": "beclamide"
+        }
+      ]
+    },
+    "diuretics": {
+      "label": "Diuretics C03",
+      "medications": [
+        {
+          "atc_code": "C03AA01",
+          "name": "bendroflumethiazide"
+        },
+        {
+          "atc_code": "C03AA02",
+          "name": "hydroflumethiazide"
+        },
+        {
+          "atc_code": "C03AA03",
+          "name": "hydrochlorothiazide"
+        },
+        {
+          "atc_code": "C03AA04",
+          "name": "chlorothiazide"
+        },
+        {
+          "atc_code": "C03AA05",
+          "name": "polythiazide"
+        },
+        {
+          "atc_code": "C03AA06",
+          "name": "trichlormethiazide"
+        },
+        {
+          "atc_code": "C03AA07",
+          "name": "cyclopenthiazide"
+        },
+        {
+          "atc_code": "C03AA08",
+          "name": "methyclothiazide"
+        },
+        {
+          "atc_code": "C03AA09",
+          "name": "cyclothiazide"
+        },
+        {
+          "atc_code": "C03AA13",
+          "name": "mebutizide"
+        },
+        {
+          "atc_code": "C03AB01",
+          "name": "bendroflumethiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB02",
+          "name": "hydroflumethiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB03",
+          "name": "hydrochlorothiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB04",
+          "name": "chlorothiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB05",
+          "name": "polythiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB06",
+          "name": "trichlormethiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB07",
+          "name": "cyclopenthiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB08",
+          "name": "methyclothiazide and potassium"
+        },
+        {
+          "atc_code": "C03AB09",
+          "name": "cyclothiazide and potassium"
+        },
+        {
+          "atc_code": "C03BA02",
+          "name": "quinethazone"
+        },
+        {
+          "atc_code": "C03BA03",
+          "name": "clopamide"
+        },
+        {
+          "atc_code": "C03BA04",
+          "name": "chlortalidone"
+        },
+        {
+          "atc_code": "C03BA05",
+          "name": "mefruside"
+        },
+        {
+          "atc_code": "C03BA07",
+          "name": "clofenamide"
+        },
+        {
+          "atc_code": "C03BA08",
+          "name": "metolazone"
+        },
+        {
+          "atc_code": "C03BA09",
+          "name": "meticrane"
+        },
+        {
+          "atc_code": "C03BA10",
+          "name": "xipamide"
+        },
+        {
+          "atc_code": "C03BA11",
+          "name": "indapamide"
+        },
+        {
+          "atc_code": "C03BA12",
+          "name": "clorexolone"
+        },
+        {
+          "atc_code": "C03BA13",
+          "name": "fenquizone"
+        },
+        {
+          "atc_code": "C03BA82",
+          "name": "clorexolone, combinations with psycholeptics"
+        },
+        {
+          "atc_code": "C03BB02",
+          "name": "quinethazone and potassium"
+        },
+        {
+          "atc_code": "C03BB03",
+          "name": "clopamide and potassium"
+        },
+        {
+          "atc_code": "C03BB04",
+          "name": "chlortalidone and potassium"
+        },
+        {
+          "atc_code": "C03BB05",
+          "name": "mefruside and potassium"
+        },
+        {
+          "atc_code": "C03BB07",
+          "name": "clofenamide and potassium"
+        },
+        {
+          "atc_code": "C03BC01",
+          "name": "mersalyl"
+        },
+        {
+          "atc_code": "C03BD01",
+          "name": "theobromine"
+        },
+        {
+          "atc_code": "C03CA01",
+          "name": "furosemide"
+        },
+        {
+          "atc_code": "C03CA02",
+          "name": "bumetanide"
+        },
+        {
+          "atc_code": "C03CA03",
+          "name": "piretanide"
+        },
+        {
+          "atc_code": "C03CA04",
+          "name": "torasemide"
+        },
+        {
+          "atc_code": "C03CC01",
+          "name": "etacrynic acid"
+        },
+        {
+          "atc_code": "C03CC02",
+          "name": "tienilic acid"
+        },
+        {
+          "atc_code": "C03CD01",
+          "name": "muzolimine"
+        },
+        {
+          "atc_code": "C03CX01",
+          "name": "etozolin"
+        },
+        {
+          "atc_code": "C03DA01",
+          "name": "spironolactone"
+        },
+        {
+          "atc_code": "C03DA02",
+          "name": "potassium canrenoate"
+        },
+        {
+          "atc_code": "C03DA03",
+          "name": "canrenone"
+        },
+        {
+          "atc_code": "C03DA04",
+          "name": "eplerenone"
+        },
+        {
+          "atc_code": "C03DA05",
+          "name": "finerenone"
+        },
+        {
+          "atc_code": "C03DA54",
+          "name": "eplerenone and dapagliflozin"
+        },
+        {
+          "atc_code": "C03DB01",
+          "name": "amiloride"
+        },
+        {
+          "atc_code": "C03DB02",
+          "name": "triamterene"
+        },
+        {
+          "atc_code": "C03XA01",
+          "name": "tolvaptan"
+        },
+        {
+          "atc_code": "C03XA02",
+          "name": "conivaptan"
+        }
+      ]
+    },
+    "centrally_acting_antihypertensives": {
+      "label": "Centrally acting antihypertensives C02A",
+      "medications": [
+        {
+          "atc_code": "C02AA01",
+          "name": "rescinnamine"
+        },
+        {
+          "atc_code": "C02AA02",
+          "name": "reserpine"
+        },
+        {
+          "atc_code": "C02AA03",
+          "name": "combinations of rauwolfia alkaloids"
+        },
+        {
+          "atc_code": "C02AA04",
+          "name": "rauwolfia alkaloids, whole root"
+        },
+        {
+          "atc_code": "C02AA05",
+          "name": "deserpidine"
+        },
+        {
+          "atc_code": "C02AA06",
+          "name": "methoserpidine"
+        },
+        {
+          "atc_code": "C02AA07",
+          "name": "bietaserpine"
+        },
+        {
+          "atc_code": "C02AA52",
+          "name": "reserpine, combinations"
+        },
+        {
+          "atc_code": "C02AA53",
+          "name": "combinations of rauwolfia alkoloids, combinations"
+        },
+        {
+          "atc_code": "C02AA57",
+          "name": "bietaserpine, combinations"
+        },
+        {
+          "atc_code": "C02AB01",
+          "name": "methyldopa (levorotatory)"
+        },
+        {
+          "atc_code": "C02AB02",
+          "name": "methyldopa (racemic)"
+        },
+        {
+          "atc_code": "C02AC01",
+          "name": "clonidine"
+        },
+        {
+          "atc_code": "C02AC02",
+          "name": "guanfacine"
+        },
+        {
+          "atc_code": "C02AC04",
+          "name": "tolonidine"
+        },
+        {
+          "atc_code": "C02AC05",
+          "name": "moxonidine"
+        },
+        {
+          "atc_code": "C02AC06",
+          "name": "rilmenidine"
+        }
+      ]
+    },
+    "vasodilators_used_in_cardiac_diseases": {
+      "label": "Vasodilators used in cardiac diseases C01D",
+      "medications": [
+        {
+          "atc_code": "C01DA02",
+          "name": "glyceryl trinitrate"
+        },
+        {
+          "atc_code": "C01DA04",
+          "name": "methylpropylpropanediol dinitrate"
+        },
+        {
+          "atc_code": "C01DA05",
+          "name": "pentaerithrityl tetranitrate"
+        },
+        {
+          "atc_code": "C01DA07",
+          "name": "propatylnitrate"
+        },
+        {
+          "atc_code": "C01DA08",
+          "name": "isosorbide dinitrate"
+        },
+        {
+          "atc_code": "C01DA09",
+          "name": "trolnitrate"
+        },
+        {
+          "atc_code": "C01DA13",
+          "name": "eritrityl tetranitrate"
+        },
+        {
+          "atc_code": "C01DA14",
+          "name": "isosorbide mononitrate"
+        },
+        {
+          "atc_code": "C01DB01",
+          "name": "flosequinan"
+        },
+        {
+          "atc_code": "C01DX01",
+          "name": "itramin tosilate"
+        },
+        {
+          "atc_code": "C01DX02",
+          "name": "prenylamine"
+        },
+        {
+          "atc_code": "C01DX03",
+          "name": "oxyfedrine"
+        },
+        {
+          "atc_code": "C01DX04",
+          "name": "benziodarone"
+        },
+        {
+          "atc_code": "C01DX05",
+          "name": "carbocromen"
+        },
+        {
+          "atc_code": "C01DX06",
+          "name": "hexobendine"
+        },
+        {
+          "atc_code": "C01DX07",
+          "name": "etafenone"
+        },
+        {
+          "atc_code": "C01DX08",
+          "name": "heptaminol"
+        },
+        {
+          "atc_code": "C01DX09",
+          "name": "imolamine"
+        },
+        {
+          "atc_code": "C01DX10",
+          "name": "dilazep"
+        },
+        {
+          "atc_code": "C01DX11",
+          "name": "trapidil"
+        },
+        {
+          "atc_code": "C01DX12",
+          "name": "molsidomine"
+        },
+        {
+          "atc_code": "C01DX13",
+          "name": "efloxate"
+        },
+        {
+          "atc_code": "C01DX14",
+          "name": "cinepazet"
+        },
+        {
+          "atc_code": "C01DX15",
+          "name": "cloridarol"
+        },
+        {
+          "atc_code": "C01DX16",
+          "name": "nicorandil"
+        },
+        {
+          "atc_code": "C01DX18",
+          "name": "linsidomine"
+        },
+        {
+          "atc_code": "C01DX19",
+          "name": "nesiritide"
+        },
+        {
+          "atc_code": "C01DX21",
+          "name": "serelaxin"
+        },
+        {
+          "atc_code": "C01DX22",
+          "name": "vericiguat"
+        }
+      ]
+    },
+    "alpha_blockers_bph": {
+      "label": "Alpha-blockers for benign prostate hyperplasia G04C",
+      "medications": [
+        {
+          "atc_code": "G04CA01",
+          "name": "alfuzosin"
+        },
+        {
+          "atc_code": "G04CA02",
+          "name": "tamsulosin"
+        },
+        {
+          "atc_code": "G04CA03",
+          "name": "terazosin"
+        },
+        {
+          "atc_code": "G04CA04",
+          "name": "silodosin"
+        },
+        {
+          "atc_code": "G04CA51",
+          "name": "alfuzosin and finasteride"
+        },
+        {
+          "atc_code": "G04CA52",
+          "name": "tamsulosin and dutasteride"
+        },
+        {
+          "atc_code": "G04CA53",
+          "name": "tamsulosin and solifenacin"
+        },
+        {
+          "atc_code": "G04CA54",
+          "name": "tamsulosin and tadalafil"
+        },
+        {
+          "atc_code": "G04CA55",
+          "name": "doxazosin and finasteride"
+        }
+      ]
+    },
+    "sedative_antihistamines": {
+      "label": "Sedative antihistamines R06A",
+      "medications": [
+        {
+          "atc_code": "R06AA02",
+          "name": "diphenhydramine"
+        },
+        {
+          "atc_code": "R06AA04",
+          "name": "clemastine"
+        },
+        {
+          "atc_code": "R06AA06",
+          "name": "chlorphenoxamine"
+        },
+        {
+          "atc_code": "R06AA07",
+          "name": "diphenylpyraline"
+        },
+        {
+          "atc_code": "R06AA08",
+          "name": "carbinoxamine"
+        },
+        {
+          "atc_code": "R06AA09",
+          "name": "doxylamine"
+        },
+        {
+          "atc_code": "R06AA11",
+          "name": "dimenhydrinate"
+        },
+        {
+          "atc_code": "R06AB01",
+          "name": "brompheniramine"
+        },
+        {
+          "atc_code": "R06AB02",
+          "name": "dexchlorpheniramine"
+        },
+        {
+          "atc_code": "R06AB03",
+          "name": "dimetindene"
+        },
+        {
+          "atc_code": "R06AB04",
+          "name": "chlorphenamine"
+        },
+        {
+          "atc_code": "R06AB05",
+          "name": "pheniramine"
+        },
+        {
+          "atc_code": "R06AB06",
+          "name": "dexbrompheniramine"
+        },
+        {
+          "atc_code": "R06AB07",
+          "name": "talastine"
+        },
+        {
+          "atc_code": "R06AC01",
+          "name": "mepyramine"
+        },
+        {
+          "atc_code": "R06AC02",
+          "name": "histapyrrodine"
+        },
+        {
+          "atc_code": "R06AC03",
+          "name": "chloropyramine"
+        },
+        {
+          "atc_code": "R06AC04",
+          "name": "tripelennamine"
+        },
+        {
+          "atc_code": "R06AC05",
+          "name": "methapyrilene"
+        },
+        {
+          "atc_code": "R06AC06",
+          "name": "thonzylamine"
+        },
+        {
+          "atc_code": "R06AD01",
+          "name": "alimemazine"
+        },
+        {
+          "atc_code": "R06AD02",
+          "name": "promethazine"
+        },
+        {
+          "atc_code": "R06AD05",
+          "name": "hydroxyethylpromethazine"
+        },
+        {
+          "atc_code": "R06AD07",
+          "name": "mequitazine"
+        },
+        {
+          "atc_code": "R06AD08",
+          "name": "oxomemazine"
+        },
+        {
+          "atc_code": "R06AD09",
+          "name": "isothipendyl"
+        }
+      ]
+    },
+    "urinary_frequency_incontinence_medications": {
+      "label": "Urinary frequency and incontinence medications G04D",
+      "medications": [
+        {
+          "atc_code": "G04BD01",
+          "name": "emepronium"
+        },
+        {
+          "atc_code": "G04BD02",
+          "name": "flavoxate"
+        },
+        {
+          "atc_code": "G04BD03",
+          "name": "meladrazine"
+        },
+        {
+          "atc_code": "G04BD04",
+          "name": "oxybutynin"
+        },
+        {
+          "atc_code": "G04BD05",
+          "name": "terodiline"
+        },
+        {
+          "atc_code": "G04BD06",
+          "name": "propiverine"
+        },
+        {
+          "atc_code": "G04BD07",
+          "name": "tolterodine"
+        },
+        {
+          "atc_code": "G04BD08",
+          "name": "solifenacin"
+        },
+        {
+          "atc_code": "G04BD09",
+          "name": "trospium"
+        },
+        {
+          "atc_code": "G04BD10",
+          "name": "darifenacin"
+        },
+        {
+          "atc_code": "G04BD11",
+          "name": "fesoterodine"
+        },
+        {
+          "atc_code": "G04BD13",
+          "name": "desfesoterodine"
+        },
+        {
+          "atc_code": "G04BD14",
+          "name": "imidafenacin"
+        }
+      ]
+    },
+    "alpha_blocking_antihypertensives": {
+      "label": "Alpha blocking antihypertensives C02CA",
+      "medications": [
+        {
+          "atc_code": "C02CA01",
+          "name": "prazosin"
+        },
+        {
+          "atc_code": "C02CA02",
+          "name": "indoramin"
+        },
+        {
+          "atc_code": "C02CA03",
+          "name": "trimazosin"
+        },
+        {
+          "atc_code": "C02CA04",
+          "name": "doxazosin"
+        },
+        {
+          "atc_code": "C02CA06",
+          "name": "urapidil"
+        }
+      ]
+    }
+  },
+  "medication_names": [
+    "diazepam",
+    "chlordiazepoxide",
+    "medazepam",
+    "oxazepam",
+    "potassium clorazepate",
+    "lorazepam",
+    "adinazolam",
+    "bromazepam",
+    "clobazam",
+    "ketazolam",
+    "prazepam",
+    "alprazolam",
+    "halazepam",
+    "pinazepam",
+    "camazepam",
+    "nordazepam",
+    "fludiazepam",
+    "ethyl loflazepate",
+    "etizolam",
+    "clotiazepam",
+    "cloxazolam",
+    "tofisopam",
+    "bentazepam",
+    "mexazolam",
+    "lorazepam, combinations",
+    "desipramine",
+    "imipramine",
+    "imipramine oxide",
+    "clomipramine",
+    "opipramol",
+    "trimipramine",
+    "lofepramine",
+    "dibenzepin",
+    "amitriptyline",
+    "nortriptyline",
+    "protriptyline",
+    "doxepin",
+    "iprindole",
+    "melitracen",
+    "butriptyline",
+    "dosulepin",
+    "amoxapine",
+    "dimetacrine",
+    "amineptine",
+    "maprotiline",
+    "quinupramine",
+    "zimeldine",
+    "fluoxetine",
+    "citalopram",
+    "paroxetine",
+    "sertraline",
+    "alaproclate",
+    "fluvoxamine",
+    "etoperidone",
+    "escitalopram",
+    "isocarboxazid",
+    "nialamide",
+    "phenelzine",
+    "tranylcypromine",
+    "iproniazide",
+    "iproclozide",
+    "moclobemide",
+    "toloxatone",
+    "oxitriptan",
+    "tryptophan",
+    "mianserin",
+    "nomifensine",
+    "trazodone",
+    "nefazodone",
+    "minaprine",
+    "bifemelane",
+    "viloxazine",
+    "oxaflozane",
+    "mirtazapine",
+    "bupropion",
+    "medifoxamine",
+    "tianeptine",
+    "pivagabine",
+    "venlafaxine",
+    "milnacipran",
+    "reboxetine",
+    "gepirone",
+    "duloxetine",
+    "agomelatine",
+    "desvenlafaxine",
+    "vilazodone",
+    "Hyperici herba",
+    "vortioxetine",
+    "esketamine",
+    "levomilnacipran",
+    "brexanolone",
+    "zuranolone",
+    "bupropion and dextromethorphan",
+    "chlorpromazine",
+    "levomepromazine",
+    "promazine",
+    "acepromazine",
+    "triflupromazine",
+    "cyamemazine",
+    "chlorproethazine",
+    "dixyrazine",
+    "fluphenazine",
+    "perphenazine",
+    "prochlorperazine",
+    "thiopropazate",
+    "trifluoperazine",
+    "acetophenazine",
+    "thioproperazine",
+    "butaperazine",
+    "perazine",
+    "periciazine",
+    "thioridazine",
+    "mesoridazine",
+    "pipotiazine",
+    "haloperidol",
+    "trifluperidol",
+    "melperone",
+    "moperone",
+    "pipamperone",
+    "bromperidol",
+    "benperidol",
+    "droperidol",
+    "fluanisone",
+    "lumateperone",
+    "oxypertine",
+    "molindone",
+    "sertindole",
+    "ziprasidone",
+    "lurasidone",
+    "flupentixol",
+    "clopenthixol",
+    "chlorprothixene",
+    "tiotixene",
+    "zuclopenthixol",
+    "fluspirilene",
+    "pimozide",
+    "penfluridol",
+    "loxapine",
+    "clozapine",
+    "olanzapine",
+    "quetiapine",
+    "asenapine",
+    "clotiapine",
+    "olanzapine and samidorphan",
+    "sulpiride",
+    "sultopride",
+    "tiapride",
+    "remoxipride",
+    "amisulpride",
+    "veralipride",
+    "levosulpiride",
+    "lithium",
+    "prothipendyl",
+    "risperidone",
+    "mosapramine",
+    "zotepine",
+    "aripiprazole",
+    "paliperidone",
+    "iloperidone",
+    "cariprazine",
+    "brexpiprazole",
+    "pimavanserin",
+    "xanomeline and trospium",
+    "morphine",
+    "opium",
+    "hydromorphone",
+    "nicomorphine",
+    "oxycodone",
+    "dihydrocodeine",
+    "papaveretum",
+    "oxymorphone",
+    "morphine, combinations",
+    "hydromorphone and naloxone",
+    "oxycodone and naloxone",
+    "oxycodone and naltrexone",
+    "dihydrocodeine, combinations",
+    "codeine, combinations excl. psycholeptics",
+    "codeine, combinations with psycholeptics",
+    "ketobemidone",
+    "pethidine",
+    "fentanyl",
+    "pethidine, combinations excl. psycholeptics",
+    "pethidine, combinations with psycholeptics",
+    "dextromoramide",
+    "piritramide",
+    "dextropropoxyphene",
+    "bezitramide",
+    "methadone, combinations excl. psycholeptics",
+    "dextropropoxyphene, combinations excl. psycholeptics",
+    "dextropropoxyphene, combinations with psycholeptics",
+    "pentazocine",
+    "phenazocine",
+    "pentazocine and naloxone",
+    "buprenorphine",
+    "butorphanol",
+    "nalbuphine",
+    "tilidine",
+    "tramadol",
+    "dezocine",
+    "meptazinol",
+    "tapentadol",
+    "oliceridine",
+    "tilidine and naloxone",
+    "methylphenobarbital",
+    "phenobarbital",
+    "primidone",
+    "barbexaclone",
+    "metharbital",
+    "ethotoin",
+    "phenytoin",
+    "amino(diphenylhydantoin) valeric acid",
+    "mephenytoin",
+    "fosphenytoin",
+    "phenytoin, combinations",
+    "mephenytoin, combinations",
+    "paramethadione",
+    "trimethadione",
+    "ethadione",
+    "ethosuximide",
+    "phensuximide",
+    "mesuximide",
+    "ethosuximide, combinations",
+    "clonazepam",
+    "carbamazepine",
+    "oxcarbazepine",
+    "rufinamide",
+    "eslicarbazepine",
+    "valproic acid",
+    "valpromide",
+    "aminobutyric acid",
+    "vigabatrin",
+    "progabide",
+    "tiagabine",
+    "sultiame",
+    "phenacemide",
+    "lamotrigine",
+    "felbamate",
+    "topiramate",
+    "pheneturide",
+    "levetiracetam",
+    "zonisamide",
+    "stiripentol",
+    "lacosamide",
+    "carisbamate",
+    "retigabine",
+    "perampanel",
+    "brivaracetam",
+    "cannabidiol",
+    "cenobamate",
+    "fenfluramine",
+    "ganaxolone",
+    "beclamide",
+    "bendroflumethiazide",
+    "hydroflumethiazide",
+    "hydrochlorothiazide",
+    "chlorothiazide",
+    "polythiazide",
+    "trichlormethiazide",
+    "cyclopenthiazide",
+    "methyclothiazide",
+    "cyclothiazide",
+    "mebutizide",
+    "bendroflumethiazide and potassium",
+    "hydroflumethiazide and potassium",
+    "hydrochlorothiazide and potassium",
+    "chlorothiazide and potassium",
+    "polythiazide and potassium",
+    "trichlormethiazide and potassium",
+    "cyclopenthiazide and potassium",
+    "methyclothiazide and potassium",
+    "cyclothiazide and potassium",
+    "quinethazone",
+    "clopamide",
+    "chlortalidone",
+    "mefruside",
+    "clofenamide",
+    "metolazone",
+    "meticrane",
+    "xipamide",
+    "indapamide",
+    "clorexolone",
+    "fenquizone",
+    "clorexolone, combinations with psycholeptics",
+    "quinethazone and potassium",
+    "clopamide and potassium",
+    "chlortalidone and potassium",
+    "mefruside and potassium",
+    "clofenamide and potassium",
+    "mersalyl",
+    "theobromine",
+    "furosemide",
+    "bumetanide",
+    "piretanide",
+    "torasemide",
+    "etacrynic acid",
+    "tienilic acid",
+    "muzolimine",
+    "etozolin",
+    "spironolactone",
+    "potassium canrenoate",
+    "canrenone",
+    "eplerenone",
+    "finerenone",
+    "eplerenone and dapagliflozin",
+    "amiloride",
+    "triamterene",
+    "tolvaptan",
+    "conivaptan",
+    "rescinnamine",
+    "reserpine",
+    "combinations of rauwolfia alkaloids",
+    "rauwolfia alkaloids, whole root",
+    "deserpidine",
+    "methoserpidine",
+    "bietaserpine",
+    "reserpine, combinations",
+    "combinations of rauwolfia alkoloids, combinations",
+    "bietaserpine, combinations",
+    "methyldopa (levorotatory)",
+    "methyldopa (racemic)",
+    "clonidine",
+    "guanfacine",
+    "tolonidine",
+    "moxonidine",
+    "rilmenidine",
+    "glyceryl trinitrate",
+    "methylpropylpropanediol dinitrate",
+    "pentaerithrityl tetranitrate",
+    "propatylnitrate",
+    "isosorbide dinitrate",
+    "trolnitrate",
+    "eritrityl tetranitrate",
+    "isosorbide mononitrate",
+    "flosequinan",
+    "itramin tosilate",
+    "prenylamine",
+    "oxyfedrine",
+    "benziodarone",
+    "carbocromen",
+    "hexobendine",
+    "etafenone",
+    "heptaminol",
+    "imolamine",
+    "dilazep",
+    "trapidil",
+    "molsidomine",
+    "efloxate",
+    "cinepazet",
+    "cloridarol",
+    "nicorandil",
+    "linsidomine",
+    "nesiritide",
+    "serelaxin",
+    "vericiguat",
+    "alfuzosin",
+    "tamsulosin",
+    "terazosin",
+    "silodosin",
+    "alfuzosin and finasteride",
+    "tamsulosin and dutasteride",
+    "tamsulosin and solifenacin",
+    "tamsulosin and tadalafil",
+    "doxazosin and finasteride",
+    "diphenhydramine",
+    "clemastine",
+    "chlorphenoxamine",
+    "diphenylpyraline",
+    "carbinoxamine",
+    "doxylamine",
+    "dimenhydrinate",
+    "brompheniramine",
+    "dexchlorpheniramine",
+    "dimetindene",
+    "chlorphenamine",
+    "pheniramine",
+    "dexbrompheniramine",
+    "talastine",
+    "mepyramine",
+    "histapyrrodine",
+    "chloropyramine",
+    "tripelennamine",
+    "methapyrilene",
+    "thonzylamine",
+    "alimemazine",
+    "promethazine",
+    "hydroxyethylpromethazine",
+    "mequitazine",
+    "oxomemazine",
+    "isothipendyl",
+    "emepronium",
+    "flavoxate",
+    "meladrazine",
+    "oxybutynin",
+    "terodiline",
+    "propiverine",
+    "tolterodine",
+    "solifenacin",
+    "trospium",
+    "darifenacin",
+    "fesoterodine",
+    "desfesoterodine",
+    "imidafenacin",
+    "prazosin",
+    "indoramin",
+    "trimazosin",
+    "doxazosin",
+    "urapidil"
+  ]
+}
